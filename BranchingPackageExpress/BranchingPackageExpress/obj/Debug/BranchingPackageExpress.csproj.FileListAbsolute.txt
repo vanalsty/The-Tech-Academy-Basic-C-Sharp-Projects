@@ -1,0 +1,7 @@
+C:\Users\lauri\source\repos\BranchingPackageExpress\BranchingPackageExpress\bin\Debug\BranchingPackageExpress.exe.config
+C:\Users\lauri\source\repos\BranchingPackageExpress\BranchingPackageExpress\bin\Debug\BranchingPackageExpress.exe
+C:\Users\lauri\source\repos\BranchingPackageExpress\BranchingPackageExpress\bin\Debug\BranchingPackageExpress.pdb
+C:\Users\lauri\source\repos\BranchingPackageExpress\BranchingPackageExpress\obj\Debug\BranchingPackageExpress.csprojAssemblyReference.cache
+C:\Users\lauri\source\repos\BranchingPackageExpress\BranchingPackageExpress\obj\Debug\BranchingPackageExpress.csproj.CoreCompileInputs.cache
+C:\Users\lauri\source\repos\BranchingPackageExpress\BranchingPackageExpress\obj\Debug\BranchingPackageExpress.exe
+C:\Users\lauri\source\repos\BranchingPackageExpress\BranchingPackageExpress\obj\Debug\BranchingPackageExpress.pdb
