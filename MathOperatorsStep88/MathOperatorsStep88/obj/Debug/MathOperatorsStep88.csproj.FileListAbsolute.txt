@@ -1,0 +1,7 @@
+C:\Users\lauri\Desktop\C#Projects\MathOperatorsStep88\MathOperatorsStep88\obj\Debug\MathOperatorsStep88.csprojAssemblyReference.cache
+C:\Users\lauri\Desktop\C#Projects\MathOperatorsStep88\MathOperatorsStep88\obj\Debug\MathOperatorsStep88.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\C#Projects\MathOperatorsStep88\MathOperatorsStep88\bin\Debug\MathOperatorsStep88.exe.config
+C:\Users\lauri\Desktop\C#Projects\MathOperatorsStep88\MathOperatorsStep88\bin\Debug\MathOperatorsStep88.exe
+C:\Users\lauri\Desktop\C#Projects\MathOperatorsStep88\MathOperatorsStep88\bin\Debug\MathOperatorsStep88.pdb
+C:\Users\lauri\Desktop\C#Projects\MathOperatorsStep88\MathOperatorsStep88\obj\Debug\MathOperatorsStep88.exe
+C:\Users\lauri\Desktop\C#Projects\MathOperatorsStep88\MathOperatorsStep88\obj\Debug\MathOperatorsStep88.pdb
