@@ -1,0 +1,7 @@
+C:\Users\lauri\Desktop\C#Projects\TryCatch_Step152\TryCatch_Step152\obj\Debug\TryCatch_Step152.csprojAssemblyReference.cache
+C:\Users\lauri\Desktop\C#Projects\TryCatch_Step152\TryCatch_Step152\obj\Debug\TryCatch_Step152.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\C#Projects\TryCatch_Step152\TryCatch_Step152\bin\Debug\TryCatch_Step152.exe.config
+C:\Users\lauri\Desktop\C#Projects\TryCatch_Step152\TryCatch_Step152\bin\Debug\TryCatch_Step152.exe
+C:\Users\lauri\Desktop\C#Projects\TryCatch_Step152\TryCatch_Step152\bin\Debug\TryCatch_Step152.pdb
+C:\Users\lauri\Desktop\C#Projects\TryCatch_Step152\TryCatch_Step152\obj\Debug\TryCatch_Step152.exe
+C:\Users\lauri\Desktop\C#Projects\TryCatch_Step152\TryCatch_Step152\obj\Debug\TryCatch_Step152.pdb
