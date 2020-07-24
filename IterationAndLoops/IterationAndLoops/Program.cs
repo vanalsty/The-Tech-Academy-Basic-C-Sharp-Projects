@@ -22,6 +22,8 @@ namespace IterationAndLoops
                 Console.WriteLine(fruitList[i]);
             }
 
+            Console.WriteLine("Press enter to continue");
+            Console.ReadLine();
 
 
             ////Create an infinite loop.
@@ -48,6 +50,8 @@ namespace IterationAndLoops
                 }
             }
             Console.ReadLine();
+            Console.WriteLine("Press enter to continue");
+            Console.ReadLine();
 
 
             //Create a loop where the comparison that’s used to determine whether to continue iterating the loop is a “<=” operator.
@@ -61,6 +65,9 @@ namespace IterationAndLoops
                 }
             }
             Console.ReadLine();
+            Console.WriteLine("Press enter to continue");
+            Console.ReadLine();
+
 
 
             //Create a List of strings where each item in the list is unique.Ask the user to input text to search for in the List.
@@ -68,54 +75,44 @@ namespace IterationAndLoops
             //Add code to that above loop that tells a user if they put in text that isn’t in the List.
             //Add code to that above loop that stops it from executing once a match has been found.
 
-            List<string> fruits = new List<string>() {"apple", "peach", "banana", "strawberry", "lemon", "raspberry", "grapes", "watermelon", };
-            
+            List<string> fruits = new List<string>() { "apple", "peach", "banana", "strawberry", "lemon", "raspberry", "grapes", "watermelon", };
+
             Console.WriteLine("What is your favorite fruit of the following: apple, peach, banana, strawberry, lemon, raspberry, grapes, or watermelon");
             string choseFruit = Console.ReadLine();
 
-            foreach (string fruit in fruits)
-            {
-                if (fruits.Contains(choseFruit))
+            if (fruits.Contains(choseFruit))
                 {
-                    Console.WriteLine("The index of that fruit is " + fruits.IndexOf(choseFruit));
-                    Console.ReadLine();
-                    break;
-                    
-                
+                Console.WriteLine("The index of that fruit is " + fruits.IndexOf(choseFruit));
+                Console.ReadLine();
                 }
                 else
                 {
-                    Console.WriteLine("Please choose apple, peach, banana, strawberry, lemon, raspberry, grapes, or watermelon");
-                    Console.ReadLine();
+                Console.WriteLine("Please choose apple, peach, banana, strawberry, lemon, raspberry, grapes, or watermelon");
+                Console.ReadLine();
                 }
-                
-                
-                
-                
-            }
+            
+            
+
+            //Create a List of strings that has at least two identical strings in the List. Ask the user to select 
+            //text to search for in the List.Create a loop that iterates through the loop and then displays the 
+            //indices of the array that contain matching text on the screen.
 
             List<string> animals = new List<string>() { "dog", "cat", "bear", "cheetah", "bear", "monkey", "rat", "buffalo" };
 
             Console.WriteLine("Type \"bear\" to see which indices it's in.");
             string choseAnimal = Console.ReadLine();
 
-            foreach (string animal in animals)
+            if (animals.Contains(choseAnimal))
             {
-                if (animals.Contains(choseAnimal))
-                {
-                    Console.WriteLine("The indices of that animal are " + animals.IndexOf(choseAnimal) + " and " + animals.LastIndexOf(choseAnimal));
-                    Console.ReadLine();
-                    break;
-
-                }
-                else
-                {
-                    Console.WriteLine("You did not type \"bear\"");
-                    Console.ReadLine();
-                    
-                }
-
+                Console.WriteLine("The indices of that animal are " + animals.IndexOf(choseAnimal) + " and " + animals.LastIndexOf(choseAnimal));
+                Console.ReadLine();               
             }
+            else
+            {
+                Console.WriteLine("Sorry, you did not type \"bear\"");
+                Console.ReadLine();                    
+            }
+
             
             //Create a List of strings that has at least two identical strings in the List. Create a foreach loop that evaluates 
             //each item in the list, and displays a message showing the string and whether or not it has already appeared in the list.
