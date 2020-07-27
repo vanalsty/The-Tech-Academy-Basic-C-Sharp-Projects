@@ -24,9 +24,8 @@ namespace MethodsStep164
             Console.ReadLine();
 
             Console.WriteLine("Enter a number to be divided by 10");
-            string userString = Console.ReadLine();
-            int userInt = Convert.ToInt32(userString);
-            Console.WriteLine(MathClass.Divide(userInt, 10));
+            string stringInput = Console.ReadLine();
+            Console.WriteLine(MathClass.Divide(stringInput, 10));
             Console.ReadLine();
         }
     }

@@ -20,10 +20,12 @@ namespace MethodsStep164
             return (decimal)result;
         }
 
-        public static int Divide(int x, int y)
+        public static int Divide(string x, int y)
         {
-            int result = x / y;
-            return result;
+            int num5 = Convert.ToInt32(x);
+            int result1 = num5 / y;
+            return result1;
         }
+
     }
 }
