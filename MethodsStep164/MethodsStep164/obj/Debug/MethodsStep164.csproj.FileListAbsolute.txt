@@ -1,0 +1,7 @@
+C:\Users\lauri\Desktop\C#Projects\MethodsStep164\MethodsStep164\bin\Debug\MethodsStep164.exe.config
+C:\Users\lauri\Desktop\C#Projects\MethodsStep164\MethodsStep164\bin\Debug\MethodsStep164.exe
+C:\Users\lauri\Desktop\C#Projects\MethodsStep164\MethodsStep164\bin\Debug\MethodsStep164.pdb
+C:\Users\lauri\Desktop\C#Projects\MethodsStep164\MethodsStep164\obj\Debug\MethodsStep164.csprojAssemblyReference.cache
+C:\Users\lauri\Desktop\C#Projects\MethodsStep164\MethodsStep164\obj\Debug\MethodsStep164.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\C#Projects\MethodsStep164\MethodsStep164\obj\Debug\MethodsStep164.exe
+C:\Users\lauri\Desktop\C#Projects\MethodsStep164\MethodsStep164\obj\Debug\MethodsStep164.pdb
