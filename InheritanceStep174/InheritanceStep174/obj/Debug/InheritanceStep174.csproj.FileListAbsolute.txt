@@ -1,0 +1,7 @@
+C:\Users\lauri\Desktop\C#Projects\InheritanceStep174\InheritanceStep174\bin\Debug\InheritanceStep174.exe.config
+C:\Users\lauri\Desktop\C#Projects\InheritanceStep174\InheritanceStep174\bin\Debug\InheritanceStep174.exe
+C:\Users\lauri\Desktop\C#Projects\InheritanceStep174\InheritanceStep174\bin\Debug\InheritanceStep174.pdb
+C:\Users\lauri\Desktop\C#Projects\InheritanceStep174\InheritanceStep174\obj\Debug\InheritanceStep174.csprojAssemblyReference.cache
+C:\Users\lauri\Desktop\C#Projects\InheritanceStep174\InheritanceStep174\obj\Debug\InheritanceStep174.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\C#Projects\InheritanceStep174\InheritanceStep174\obj\Debug\InheritanceStep174.exe
+C:\Users\lauri\Desktop\C#Projects\InheritanceStep174\InheritanceStep174\obj\Debug\InheritanceStep174.pdb
