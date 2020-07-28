@@ -1,0 +1,7 @@
+C:\Users\lauri\Desktop\C#Projects\ClassMethodStep169\ClassMethodStep169\bin\Debug\ClassMethodStep169.exe.config
+C:\Users\lauri\Desktop\C#Projects\ClassMethodStep169\ClassMethodStep169\bin\Debug\ClassMethodStep169.exe
+C:\Users\lauri\Desktop\C#Projects\ClassMethodStep169\ClassMethodStep169\bin\Debug\ClassMethodStep169.pdb
+C:\Users\lauri\Desktop\C#Projects\ClassMethodStep169\ClassMethodStep169\obj\Debug\ClassMethodStep169.csprojAssemblyReference.cache
+C:\Users\lauri\Desktop\C#Projects\ClassMethodStep169\ClassMethodStep169\obj\Debug\ClassMethodStep169.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\C#Projects\ClassMethodStep169\ClassMethodStep169\obj\Debug\ClassMethodStep169.exe
+C:\Users\lauri\Desktop\C#Projects\ClassMethodStep169\ClassMethodStep169\obj\Debug\ClassMethodStep169.pdb
