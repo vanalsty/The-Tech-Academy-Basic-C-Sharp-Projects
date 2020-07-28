@@ -8,9 +8,10 @@ namespace ClassMethodStep169
 {
     class Class1
     {
-        public void Num1(out int Number1)
+        public void DivideByTwo(int x)
         {
-            Number1 = 2;
+            int result = x / 2;
+            Console.WriteLine(x + " divided by 2 = " + result);
         }   
     }
 }
