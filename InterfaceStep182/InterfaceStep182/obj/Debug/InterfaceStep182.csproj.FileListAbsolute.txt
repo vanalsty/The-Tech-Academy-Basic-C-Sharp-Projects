@@ -1,0 +1,7 @@
+C:\Users\lauri\Desktop\C#Projects\InterfaceStep182\InterfaceStep182\bin\Debug\InterfaceStep182.exe.config
+C:\Users\lauri\Desktop\C#Projects\InterfaceStep182\InterfaceStep182\bin\Debug\InterfaceStep182.exe
+C:\Users\lauri\Desktop\C#Projects\InterfaceStep182\InterfaceStep182\bin\Debug\InterfaceStep182.pdb
+C:\Users\lauri\Desktop\C#Projects\InterfaceStep182\InterfaceStep182\obj\Debug\InterfaceStep182.csprojAssemblyReference.cache
+C:\Users\lauri\Desktop\C#Projects\InterfaceStep182\InterfaceStep182\obj\Debug\InterfaceStep182.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\C#Projects\InterfaceStep182\InterfaceStep182\obj\Debug\InterfaceStep182.exe
+C:\Users\lauri\Desktop\C#Projects\InterfaceStep182\InterfaceStep182\obj\Debug\InterfaceStep182.pdb
