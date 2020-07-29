@@ -1,0 +1,7 @@
+C:\Users\lauri\Desktop\C#Projects\OverloadOperatorStep187\OverloadOperatorStep187\obj\Debug\OverloadOperatorStep187.csprojAssemblyReference.cache
+C:\Users\lauri\Desktop\C#Projects\OverloadOperatorStep187\OverloadOperatorStep187\obj\Debug\OverloadOperatorStep187.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\C#Projects\OverloadOperatorStep187\OverloadOperatorStep187\bin\Debug\OverloadOperatorStep187.exe.config
+C:\Users\lauri\Desktop\C#Projects\OverloadOperatorStep187\OverloadOperatorStep187\bin\Debug\OverloadOperatorStep187.exe
+C:\Users\lauri\Desktop\C#Projects\OverloadOperatorStep187\OverloadOperatorStep187\bin\Debug\OverloadOperatorStep187.pdb
+C:\Users\lauri\Desktop\C#Projects\OverloadOperatorStep187\OverloadOperatorStep187\obj\Debug\OverloadOperatorStep187.exe
+C:\Users\lauri\Desktop\C#Projects\OverloadOperatorStep187\OverloadOperatorStep187\obj\Debug\OverloadOperatorStep187.pdb
