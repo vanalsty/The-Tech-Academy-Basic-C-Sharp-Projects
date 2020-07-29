@@ -1,0 +1,7 @@
+C:\Users\lauri\Desktop\C#Projects\GenericStep190\GenericStep190\obj\Debug\GenericStep190.csprojAssemblyReference.cache
+C:\Users\lauri\Desktop\C#Projects\GenericStep190\GenericStep190\obj\Debug\GenericStep190.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\C#Projects\GenericStep190\GenericStep190\bin\Debug\GenericStep190.exe.config
+C:\Users\lauri\Desktop\C#Projects\GenericStep190\GenericStep190\bin\Debug\GenericStep190.exe
+C:\Users\lauri\Desktop\C#Projects\GenericStep190\GenericStep190\bin\Debug\GenericStep190.pdb
+C:\Users\lauri\Desktop\C#Projects\GenericStep190\GenericStep190\obj\Debug\GenericStep190.exe
+C:\Users\lauri\Desktop\C#Projects\GenericStep190\GenericStep190\obj\Debug\GenericStep190.pdb
