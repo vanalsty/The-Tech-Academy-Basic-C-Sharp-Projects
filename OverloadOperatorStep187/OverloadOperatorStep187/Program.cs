@@ -23,6 +23,12 @@ namespace OverloadOperatorStep187
             emp1.SayName();
             Console.ReadLine();
 
+            Console.WriteLine(emp1 == emp2);
+            Console.ReadLine();
+            Console.WriteLine(emp1 != emp2);
+            Console.ReadLine();
+
+
         }
             
         
