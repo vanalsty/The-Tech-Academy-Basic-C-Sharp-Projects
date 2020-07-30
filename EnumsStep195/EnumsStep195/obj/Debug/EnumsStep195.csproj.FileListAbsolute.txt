@@ -1,0 +1,7 @@
+C:\Users\lauri\Desktop\C#Projects\EnumsStep195\EnumsStep195\bin\Debug\EnumsStep195.exe.config
+C:\Users\lauri\Desktop\C#Projects\EnumsStep195\EnumsStep195\bin\Debug\EnumsStep195.exe
+C:\Users\lauri\Desktop\C#Projects\EnumsStep195\EnumsStep195\bin\Debug\EnumsStep195.pdb
+C:\Users\lauri\Desktop\C#Projects\EnumsStep195\EnumsStep195\obj\Debug\EnumsStep195.csprojAssemblyReference.cache
+C:\Users\lauri\Desktop\C#Projects\EnumsStep195\EnumsStep195\obj\Debug\EnumsStep195.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\C#Projects\EnumsStep195\EnumsStep195\obj\Debug\EnumsStep195.exe
+C:\Users\lauri\Desktop\C#Projects\EnumsStep195\EnumsStep195\obj\Debug\EnumsStep195.pdb
