@@ -1,0 +1,7 @@
+C:\Users\lauri\Desktop\C#Projects\LambdaStep203\LambdaStep203\bin\Debug\LambdaStep203.exe.config
+C:\Users\lauri\Desktop\C#Projects\LambdaStep203\LambdaStep203\bin\Debug\LambdaStep203.exe
+C:\Users\lauri\Desktop\C#Projects\LambdaStep203\LambdaStep203\bin\Debug\LambdaStep203.pdb
+C:\Users\lauri\Desktop\C#Projects\LambdaStep203\LambdaStep203\obj\Debug\LambdaStep203.csprojAssemblyReference.cache
+C:\Users\lauri\Desktop\C#Projects\LambdaStep203\LambdaStep203\obj\Debug\LambdaStep203.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\C#Projects\LambdaStep203\LambdaStep203\obj\Debug\LambdaStep203.exe
+C:\Users\lauri\Desktop\C#Projects\LambdaStep203\LambdaStep203\obj\Debug\LambdaStep203.pdb
