@@ -1,0 +1,7 @@
+C:\Users\lauri\Desktop\C#Projects\DateTimeStep222\DateTimeStep222\bin\Debug\DateTimeStep222.exe.config
+C:\Users\lauri\Desktop\C#Projects\DateTimeStep222\DateTimeStep222\bin\Debug\DateTimeStep222.exe
+C:\Users\lauri\Desktop\C#Projects\DateTimeStep222\DateTimeStep222\bin\Debug\DateTimeStep222.pdb
+C:\Users\lauri\Desktop\C#Projects\DateTimeStep222\DateTimeStep222\obj\Debug\DateTimeStep222.csprojAssemblyReference.cache
+C:\Users\lauri\Desktop\C#Projects\DateTimeStep222\DateTimeStep222\obj\Debug\DateTimeStep222.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\C#Projects\DateTimeStep222\DateTimeStep222\obj\Debug\DateTimeStep222.exe
+C:\Users\lauri\Desktop\C#Projects\DateTimeStep222\DateTimeStep222\obj\Debug\DateTimeStep222.pdb
