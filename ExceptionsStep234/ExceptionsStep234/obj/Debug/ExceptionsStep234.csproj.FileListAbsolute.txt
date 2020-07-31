@@ -1,0 +1,7 @@
+C:\Users\lauri\Desktop\C#Projects\ExceptionsStep234\ExceptionsStep234\bin\Debug\ExceptionsStep234.exe.config
+C:\Users\lauri\Desktop\C#Projects\ExceptionsStep234\ExceptionsStep234\bin\Debug\ExceptionsStep234.exe
+C:\Users\lauri\Desktop\C#Projects\ExceptionsStep234\ExceptionsStep234\bin\Debug\ExceptionsStep234.pdb
+C:\Users\lauri\Desktop\C#Projects\ExceptionsStep234\ExceptionsStep234\obj\Debug\ExceptionsStep234.csprojAssemblyReference.cache
+C:\Users\lauri\Desktop\C#Projects\ExceptionsStep234\ExceptionsStep234\obj\Debug\ExceptionsStep234.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\C#Projects\ExceptionsStep234\ExceptionsStep234\obj\Debug\ExceptionsStep234.exe
+C:\Users\lauri\Desktop\C#Projects\ExceptionsStep234\ExceptionsStep234\obj\Debug\ExceptionsStep234.pdb
