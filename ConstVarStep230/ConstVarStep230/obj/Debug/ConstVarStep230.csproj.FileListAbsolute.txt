@@ -1,0 +1,7 @@
+C:\Users\lauri\Desktop\C#Projects\ConstVarStep230\ConstVarStep230\bin\Debug\ConstVarStep230.exe.config
+C:\Users\lauri\Desktop\C#Projects\ConstVarStep230\ConstVarStep230\bin\Debug\ConstVarStep230.exe
+C:\Users\lauri\Desktop\C#Projects\ConstVarStep230\ConstVarStep230\bin\Debug\ConstVarStep230.pdb
+C:\Users\lauri\Desktop\C#Projects\ConstVarStep230\ConstVarStep230\obj\Debug\ConstVarStep230.csprojAssemblyReference.cache
+C:\Users\lauri\Desktop\C#Projects\ConstVarStep230\ConstVarStep230\obj\Debug\ConstVarStep230.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\C#Projects\ConstVarStep230\ConstVarStep230\obj\Debug\ConstVarStep230.exe
+C:\Users\lauri\Desktop\C#Projects\ConstVarStep230\ConstVarStep230\obj\Debug\ConstVarStep230.pdb
