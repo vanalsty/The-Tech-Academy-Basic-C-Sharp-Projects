@@ -1,0 +1,7 @@
+C:\Users\lauri\Desktop\C#Projects\FileIOStep219\FileIOStep219\bin\Debug\FileIOStep219.exe.config
+C:\Users\lauri\Desktop\C#Projects\FileIOStep219\FileIOStep219\bin\Debug\FileIOStep219.exe
+C:\Users\lauri\Desktop\C#Projects\FileIOStep219\FileIOStep219\bin\Debug\FileIOStep219.pdb
+C:\Users\lauri\Desktop\C#Projects\FileIOStep219\FileIOStep219\obj\Debug\FileIOStep219.csprojAssemblyReference.cache
+C:\Users\lauri\Desktop\C#Projects\FileIOStep219\FileIOStep219\obj\Debug\FileIOStep219.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\C#Projects\FileIOStep219\FileIOStep219\obj\Debug\FileIOStep219.exe
+C:\Users\lauri\Desktop\C#Projects\FileIOStep219\FileIOStep219\obj\Debug\FileIOStep219.pdb
