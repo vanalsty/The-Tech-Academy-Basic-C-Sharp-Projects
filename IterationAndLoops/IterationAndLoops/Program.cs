@@ -111,10 +111,8 @@ namespace IterationAndLoops
             {
                 if (animals[i] == choseAnimal)
                 {
-                    Console.WriteLine("The index(es) of that animal: " + animals.IndexOf(choseAnimal) + " and " + animals.LastIndexOf(choseAnimal));
-                    isPres = true;
-                    break;
-                    
+                    Console.WriteLine("The index(es) of that animal: " + i);
+                    isPres = true;                 
                 }
             }
             if (!isPres)
